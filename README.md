@@ -1,4 +1,8 @@
-This is the description of my repo
+Git branching and merge conflict practice
+
+Modification in feature-greeting branch
+
+
 
 
 
